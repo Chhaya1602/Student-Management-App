@@ -1,7 +1,7 @@
 {
   "students": [
     {
-      "fname": "Chhaya",
+      "fname": "kirti",
       "lname": "Mandlik",
       "mother_name": "Sunita",
       "father_name": "Haribhau",
@@ -9,10 +9,10 @@
       "gender": "female",
       "state": "Maharashtra",
       "city": "Pune",
-      "dob": "16/02/2000",
+      "dob": "14/04/2000",
       "pincode": "411001",
       "password": "Kirti@123",
-      "email": "kirtimandlik16@gmail.com",
+      "email": "kirti@gmail.com",
       "id": "c089"
     },
     {
@@ -24,10 +24,10 @@
       "gender": "male",
       "state": "Gujrat",
       "city": "Surat",
-      "dob": "09/08/1998",
+      "dob": "09/10/1998",
       "pincode": "456789",
       "password": "vaibhav@123",
-      "email": "vaibhavpachore25@gmail.com",
+      "email": "vaibhav@gmail.com",
       "id": "4fea"
     },
     {
@@ -39,10 +39,10 @@
       "gender": "male",
       "state": "Rajasthan",
       "city": "Jaipur",
-      "dob": "16/04/2002",
+      "dob": "10/04/2002",
       "pincode": "422605",
       "password": "pratik@123",
-      "email": "pratik123@gamil.com",
+      "email": "pratik@gamil.com",
       "id": "b16a"
     },
     {
@@ -54,7 +54,7 @@
       "gender": "male",
       "state": "Maharashtra",
       "city": "Pune",
-      "dob": "24/09/1994",
+      "dob": "24/10/1994",
       "pincode": "456788",
       "password": "akshay@123",
       "email": "akshay@gmail.com",
@@ -70,7 +70,7 @@
       "gender": "female",
       "state": "Maharashtra",
       "city": "Nashik",
-      "dob": "01/06/1978",
+      "dob": "01/06/1997",
       "pincode": "435789",
       "password": "sunita@123",
       "email": "sunita@gmail.com"
