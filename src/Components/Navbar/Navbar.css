@@ -1,0 +1,6 @@
+.navbar-nav .nav-link.active{
+    color: crimson;
+    background-color: rgb(223, 10, 187);
+    text-decoration: underline;
+    border-radius: 10px;
+}
